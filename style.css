@@ -1,0 +1,30 @@
+.bg-img1 {
+  background-image: url(image/moon.jpg);
+  height: 700px;
+  width: 100%;
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-image: url(image/img3.jpg);
+  height: 700px;
+  width: 100%;
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-image: url(image/img2.png);
+  height: 700px;
+  width: 100%;
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.postition-caption {
+  bottom: 10.25rem;
+}
